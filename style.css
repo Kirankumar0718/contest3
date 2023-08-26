@@ -1,0 +1,14 @@
+.navbar{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.div1{
+    justify-content:space-evenly;
+}
+.btn{
+    background-color: #f94a3d;
+    border-radius: 5px;
+    border: none;
+    ;
+}
